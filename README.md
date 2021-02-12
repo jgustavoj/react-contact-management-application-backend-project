@@ -1,10 +1,5 @@
 # Flask Boilerplate for Profesional Development
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
-<p align="center">
-    <a href="https://youtu.be/ORxQ-K3BzQA"><img height="200px" src="https://github.com/4GeeksAcademy/flask-rest-hello/blob/main/docs/assets/how-to.png?raw=true?raw=true" /></a>
-</p>
-
 ## Features
 
 - Extensive documentation [here](https://github.com/4GeeksAcademy/flask-rest-hello/tree/master/docs).
