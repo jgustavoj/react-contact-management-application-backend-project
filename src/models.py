@@ -38,7 +38,7 @@ class Contact(db.Model):
         return {
 
             "id": self.id,
-            "name": self.full_name,
+            "full_name": self.full_name,
             "email": self.email,
             "phone": self.phone,
             "address": self.address,
